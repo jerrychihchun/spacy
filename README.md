@@ -1,9 +1,9 @@
 # spacy
 Introduction to SpaCy
 
-This notebook is based on [spaCy 101: Everything you need to know](https://spacy.io/usage/spacy-101).
+This notebook is constructed based on [spaCy 101: Everything you need to know](https://spacy.io/usage/spacy-101).
 
-The topics include:
+The topics are:
   - Tokenization
   - Span
   - Part-of-speech tags and dependencies
